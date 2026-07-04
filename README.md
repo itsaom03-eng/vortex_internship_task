@@ -20,7 +20,7 @@ Vulnerabilities Covered
 
 How to "Run" This
 
-There's no code to run — this is a research/documentation deliverable. Just open `OWASP-Top-10-Research.md` in this repo (GitHub renders Markdown automatically), or view it in any Markdown viewer / text editor.
+There's no code to run this is a research/documentation deliverable. Just open `OWASP-Top-10-Research.md` in this repo (GitHub renders Markdown automatically), or view it in any Markdown viewer / text editor.
 
 Sources:
 Researched using the official OWASP Top 10:2025 documentation (owasp.org/Top10/2025) plus supplementary articles on real-world breach case studies, all cited/paraphrased in the document itself.
